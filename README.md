@@ -1,18 +1,27 @@
-# Internship Matcher (MVP)
+# Internship Matcher (Python)
 
-A Python tool that scans internship job postings and ranks them based on a student's skills and availability.
+A lightweight Python tool that scans internship job postings and ranks them based on a student candidate’s skills and availability.
 
-## Features
-- Reads job postings from `postings/*.txt`
-- Loads candidate info from `candidate_profile.json`
-- Extracts skills using keyword detection
-- Scores and ranks postings by best fit
-- Shows matched vs missing skills
-- Outputs results to `ranked_results.json`
+This project is designed as a portfolio-friendly MVP that demonstrates practical parsing, matching logic, and clean repo structure.
 
-## How to Run
+---
 
-### 1) Activate virtual environment
-```bash
-source venv/bin/activate
+## ✅ Features
+- Loads a candidate profile from JSON
+- Scans job posting text files in `postings/`
+- Extracts skills using keyword detection (no AI required)
+- Ranks postings by best match score
+- Shows matched vs missing skills for each posting
+- Saves ranked results to `ranked_results.json`
 
+---
+
+## 📁 Project Structure
+```txt
+internship_matcher/
+  main.py
+  README.md
+  requirements.txt
+  candidate_profile.sample.json
+  postings/
+    sample_posting.txt
