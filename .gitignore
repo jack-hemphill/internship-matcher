@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 ranked_results.json
 .DS_Store
-
+candidate_profile.json
