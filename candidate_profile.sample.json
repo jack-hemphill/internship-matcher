@@ -1,19 +1,16 @@
 {
-  "name": "Jack",
-  "degree": "Computer Systems Engineering",
-  "graduation_date": "2027-12",
-  "availability_start": "2026-06-01",
+  "name": "Sample Student",
+  "degree": "Computer Engineering",
+  "graduation_date": "2027-05",
+  "availability_start": "2026-05-15",
   "skills": [
     "Python",
     "C",
     "C++",
-    "Java",
     "Git",
     "Linux",
-    "Data Structures",
-    "Digital Logic",
-    "Verilog",
-    "Assembly"
+    "Data Structures"
   ],
-  "preferred_locations": ["Remote", "Arizona"]
+  "preferred_locations": ["Remote"]
 }
+
