@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.pyc
+ranked_results.json
+.DS_Store
+
