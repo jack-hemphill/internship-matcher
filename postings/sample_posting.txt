@@ -1,0 +1,23 @@
+Company: ExampleTech
+Title: Embedded Software Intern
+Location: Remote / Phoenix, AZ
+Season: Summer 2026
+Start Date: May 2026
+
+Responsibilities:
+- Work with embedded Linux systems
+- Develop C/C++ firmware for microcontrollers
+- Debug hardware/software issues and assist with testing
+
+Required Qualifications:
+- Currently pursuing a BS in Computer Engineering / EE / CS
+- Experience with C or C++
+- Familiarity with Git and Linux
+- Understanding of basic data structures
+
+Preferred Qualifications:
+- Python scripting experience
+- Experience with UART/SPI/I2C
+- Familiarity with RTOS concepts
+- Experience with Arduino or Raspberry Pi
+
